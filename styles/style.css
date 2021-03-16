@@ -1,0 +1,33 @@
+html {
+	font-size: 16px; /* this might be too large, will see */
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #839496; /* probably will change */
+}
+
+body {
+	width: 600px;
+	margin: 0 auto; /* probably will change */
+	background-color: #FDF6E3; /* probably will change */
+	padding: 0 20px 20px 20px;
+	border: 5px solid black; /* probably will change */
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #268bd2; /* probably will change */
+	text-shadow: 3px 3px 1px black; /* probably will change */
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 1.2;
+	letter-spacing: 1px;
+}
+
+img {
+	display: block;
+	margin: 0 auto; /* probably will change */
+}
