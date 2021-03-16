@@ -7,9 +7,9 @@ html {
 body {
 	width: 600px;
 	margin: 0 auto; /* probably will change */
-	background-color: #FDF6E3; /* probably will change */
+	background-color: #fdf6e3; /* probably will change */
 	padding: 0 20px 20px 20px;
-	border: 5px solid black; /* probably will change */
+	border: 2px solid black; /* probably will change */
 }
 
 h1 {
@@ -17,8 +17,8 @@ h1 {
 	text-align: center;
 	margin: 0;
 	padding: 20px 0;
-	color: #268bd2; /* probably will change */
-	text-shadow: 3px 3px 1px black; /* probably will change */
+	color: #073642; /* probably will change */
+	/* text-shadow: 3px 3px 1px black; */
 }
 
 p, li {
