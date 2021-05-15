@@ -5,15 +5,16 @@ html {
 	background-position: top;
   	background-repeat: no-repeat;
 	/*background-size: cover;*/
-	background-color: #839496; /* probably will change */
+	background-color: #839496;
 }
 
 body {
-	width: 600px;
-	margin: 0 auto; /* probably will change */
-	background-color: #fdf6e3; /* probably will change */
+	width: 800px;
+	margin: 0 auto;
+	background-color: #2e2e2e;
 	padding: 0 20px 20px 20px;
-	border: 2px solid black; /* probably will change */
+	/*border: 2px solid black; */
+	opacity: 0.9;
 }
 
 h1 {
@@ -21,18 +22,45 @@ h1 {
 	text-align: center;
 	margin: 0;
 	padding: 20px 0;
-	color: #073642; /* probably will change */
+	color: #6c99bb;
+	/* text-shadow: 3px 3px 1px black; */
+}
+
+h2 {
+	font-size: 20px;
+	text-align: left;
+	margin: 0;
+	padding: 20px 0;
+	color: #9e86c8;
 	/* text-shadow: 3px 3px 1px black; */
 }
 
 p, li {
 	font-size: 16px;
-	color: #1c1c1c; /* easy on eyes black */
+	color: #d6d6d6;
 	line-height: 1.2;
 	letter-spacing: 1px;
+	text-align: left;
+}
+
+a {
+	color: #b05279; 
 }
 
 img {
 	display: block;
-	margin: 0 auto; /* probably will change */
+	margin: 0 auto;
 }
+
+/*
+Color scheme
+Background: (46, 46, 46); #2e2e2e
+Comments: (121, 121, 121); #797979
+White: (214, 214, 214); #d6d6d6
+Yellow: (229, 181, 103); #e5b567
+Green: (180, 210, 115); #b4d273
+Orange: (232, 125, 62); #e87d3e
+Purple: (158, 134, 200); #9e86c8
+Pink: (176, 82, 121); #b05279
+Blue: (108, 153, 187); #6c99bb
+*/
